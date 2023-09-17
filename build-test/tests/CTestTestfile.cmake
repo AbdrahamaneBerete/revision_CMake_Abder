@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests
+# Build directory: C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+if(CTEST_CONFIGURATION_TYPE MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
+  add_test(test_hello "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests/Debug/test_hello.exe")
+  set_tests_properties(test_hello PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;3;add_test;C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;0;")
+elseif(CTEST_CONFIGURATION_TYPE MATCHES "^([Rr][Ee][Ll][Ee][Aa][Ss][Ee])$")
+  add_test(test_hello "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests/Release/test_hello.exe")
+  set_tests_properties(test_hello PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;3;add_test;C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;0;")
+elseif(CTEST_CONFIGURATION_TYPE MATCHES "^([Mm][Ii][Nn][Ss][Ii][Zz][Ee][Rr][Ee][Ll])$")
+  add_test(test_hello "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests/MinSizeRel/test_hello.exe")
+  set_tests_properties(test_hello PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;3;add_test;C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;0;")
+elseif(CTEST_CONFIGURATION_TYPE MATCHES "^([Rr][Ee][Ll][Ww][Ii][Tt][Hh][Dd][Ee][Bb][Ii][Nn][Ff][Oo])$")
+  add_test(test_hello "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests/RelWithDebInfo/test_hello.exe")
+  set_tests_properties(test_hello PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;3;add_test;C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;0;")
+else()
+  add_test(test_hello NOT_AVAILABLE)
+endif()
+if(CTEST_CONFIGURATION_TYPE MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
+  add_test(test_version "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests/Debug/test_version.exe")
+  set_tests_properties(test_version PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;7;add_test;C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;0;")
+elseif(CTEST_CONFIGURATION_TYPE MATCHES "^([Rr][Ee][Ll][Ee][Aa][Ss][Ee])$")
+  add_test(test_version "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests/Release/test_version.exe")
+  set_tests_properties(test_version PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;7;add_test;C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;0;")
+elseif(CTEST_CONFIGURATION_TYPE MATCHES "^([Mm][Ii][Nn][Ss][Ii][Zz][Ee][Rr][Ee][Ll])$")
+  add_test(test_version "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests/MinSizeRel/test_version.exe")
+  set_tests_properties(test_version PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;7;add_test;C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;0;")
+elseif(CTEST_CONFIGURATION_TYPE MATCHES "^([Rr][Ee][Ll][Ww][Ii][Tt][Hh][Dd][Ee][Bb][Ii][Nn][Ff][Oo])$")
+  add_test(test_version "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests/RelWithDebInfo/test_version.exe")
+  set_tests_properties(test_version PROPERTIES  _BACKTRACE_TRIPLES "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;7;add_test;C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/tests/CMakeLists.txt;0;")
+else()
+  add_test(test_version NOT_AVAILABLE)
+endif()

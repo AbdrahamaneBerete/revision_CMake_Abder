@@ -1,0 +1,35 @@
+Start testing: Sep 17 14:57 Paris, Madrid (heure d’été)
+----------------------------------------------------------
+1/2 Testing: test_hello
+1/2 Test: test_hello
+Command: "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests/Release/test_hello.exe"
+Directory: C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests
+"test_hello" start time: Sep 17 14:57 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+Hello World!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_hello" end time: Sep 17 14:57 Paris, Madrid (heure d’été)
+"test_hello" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: test_version
+2/2 Test: test_version
+Command: "C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests/Release/test_version.exe"
+Directory: C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests
+"test_version" start time: Sep 17 14:57 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+project version is 1.0
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_version" end time: Sep 17 14:57 Paris, Madrid (heure d’été)
+"test_version" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 17 14:57 Paris, Madrid (heure d’été)

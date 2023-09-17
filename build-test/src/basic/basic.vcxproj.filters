@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Hewelett-Packard\Desktop\ENSG\PARCOURS_GEOL_NUM_2023\3A_GEOL_NUM\revision_CMake_Abder\src\basic\message.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Hewelett-Packard\Desktop\ENSG\PARCOURS_GEOL_NUM_2023\3A_GEOL_NUM\revision_CMake_Abder\include\basic\message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Hewelett-Packard\Desktop\ENSG\PARCOURS_GEOL_NUM_2023\3A_GEOL_NUM\revision_CMake_Abder\src\basic\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{871EA650-8311-3E7A-A5F3-CBB6B6B8AEAA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{300FCBCF-1A90-30BF-A33A-130D44263440}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

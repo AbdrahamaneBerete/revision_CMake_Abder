@@ -1,0 +1,10 @@
+^C:\USERS\HEWELETT-PACKARD\DESKTOP\ENSG\PARCOURS_GEOL_NUM_2023\3A_GEOL_NUM\REVISION_CMAKE_ABDER\SRC\BASIC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder -BC:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test --check-stamp-file C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/src/basic/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

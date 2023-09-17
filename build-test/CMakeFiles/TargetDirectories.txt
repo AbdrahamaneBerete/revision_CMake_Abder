@@ -1,0 +1,10 @@
+C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/CMakeFiles/RUN_TESTS.dir
+C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/CMakeFiles/ALL_BUILD.dir
+C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/src/basic/CMakeFiles/basic.dir
+C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/src/basic/CMakeFiles/RUN_TESTS.dir
+C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/mains/CMakeFiles/HelloWorld.dir
+C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/mains/CMakeFiles/RUN_TESTS.dir
+C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests/CMakeFiles/test_hello.dir
+C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests/CMakeFiles/test_version.dir
+C:/Users/Hewelett-Packard/Desktop/ENSG/PARCOURS_GEOL_NUM_2023/3A_GEOL_NUM/revision_CMake_Abder/build-test/tests/CMakeFiles/RUN_TESTS.dir
